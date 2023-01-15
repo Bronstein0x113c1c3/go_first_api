@@ -1,0 +1,7 @@
+/*
+Some essential enpoints for my server
+*/
+"add"
+"get"
+"edit"
+"delete"
